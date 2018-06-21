@@ -4,7 +4,9 @@
 from setuptools import setup, find_packages
 from os import path
 
-from ntdocutils import __version__, DESCRIPTION
+__version__ = "1.0.0"
+DESCRIPTION = """This is a MDL theme for NtDocutils."""
+
 
 basedir = path.abspath(path.dirname(__file__))
 
