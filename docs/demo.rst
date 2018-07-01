@@ -30,9 +30,9 @@ Subtitle
     Centro Empresarial Gran Mundo
     Piso 7, oficina 7-3
 
-:Version: 0.1.0
+:Version: 1.0.0
 :Date: 2018-06-21T01:45:00-04:00
-:License: `MIT <https://github.com/ntrrg/ntdocutils-theme-mdl/blob/v0.1.0/LICENSE>`_
+:License: `MIT <https://github.com/ntrrg/ntdocutils-theme-mdl/blob/v1.0.0/LICENSE>`_
 
 .. image:: images/logo.png
     :class: article-image
@@ -545,12 +545,12 @@ Block syntax highlighting
       ATTACHMENTS = [
         {
           url: 'demo.rst',
-          name: 'NtDocutils MDL Theme 0.1.0 - Demo.rst',
+          name: 'NtDocutils MDL Theme 1.0.0 - Demo.rst',
           icon: 'code'
         },
         {
           url: 'attachments/demo.pdf',
-          name: 'NtDocutils MDL Theme 0.1.0 - Demo.pdf'
+          name: 'NtDocutils MDL Theme 1.0.0 - Demo.pdf'
         }
       ]
     </script>

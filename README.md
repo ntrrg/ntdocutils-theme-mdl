@@ -10,21 +10,21 @@ This theme requires:
 ### From PyPI
 
 ```shell-session
-# pip install ntdocutils-theme-mdl==0.1.0
+# pip install ntdocutils-theme-mdl==1.0.0
 ```
 
 ### From source
 
 ```shell-session
-$ wget -c 'https://github.com/ntrrg/ntdocutils-theme-mdl/archive/v0.1.0.tar.gz'
+$ wget -c 'https://github.com/ntrrg/ntdocutils-theme-mdl/archive/v1.0.0.tar.gz'
 ```
 
 ```shell-session
-$ tar -xvf ntdocutils-theme-mdl-0.1.0.tar.gz
+$ tar -xvf ntdocutils-theme-mdl-1.0.0.tar.gz
 ```
 
 ```shell-session
-$ cd ntdocutils-theme-mdl-0.1.0
+$ cd ntdocutils-theme-mdl-1.0.0
 ```
 
 ```shell-session

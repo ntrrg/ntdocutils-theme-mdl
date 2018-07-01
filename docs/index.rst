@@ -9,13 +9,13 @@ MDL Theme
 =========
 
 -----
-0.1.0
+1.0.0
 -----
 
 :Author: Miguel Angel Rivera Notararigo
 :Contact: `@ntrrg <https://nt.web.ve>`_
 :Date: 2018-06-21T00:30:00-04:00
-:License: `MIT <https://github.com/ntrrg/ntdocutils-theme-mdl/blob/v0.1.0/LICENSE>`_
+:License: `MIT <https://github.com/ntrrg/ntdocutils-theme-mdl/blob/v1.0.0/LICENSE>`_
 
 .. image:: images/logo.png
     :class: article-image
@@ -85,12 +85,12 @@ From PyPI
 .. code:: shell-session
     :class: fl fl-linux
 
-    # pip install ntdocutils-theme-mdl==0.1.0
+    # pip install ntdocutils-theme-mdl==1.0.0
 
 .. code:: doscon
     :class: fl fl-windows
 
-    C:\> pip install ntdocutils-theme-mdl==0.1.0
+    C:\> pip install ntdocutils-theme-mdl==1.0.0
 
 From source
 -----------
@@ -99,15 +99,15 @@ From source
 
     .. code:: shell-session
 
-        $ wget -c 'https://github.com/ntrrg/ntdocutils-theme-mdl/archive/v0.1.0.tar.gz'
+        $ wget -c 'https://github.com/ntrrg/ntdocutils-theme-mdl/archive/v1.0.0.tar.gz'
 
     .. code:: shell-session
 
-        $ tar -xvf ntdocutils-theme-mdl-0.1.0.tar.gz
+        $ tar -xvf ntdocutils-theme-mdl-1.0.0.tar.gz
 
     .. code:: shell-session
 
-        $ cd ntdocutils-theme-mdl-0.1.0
+        $ cd ntdocutils-theme-mdl-1.0.0
 
     .. code:: shell-session
 
@@ -116,12 +116,12 @@ From source
 .. class:: fl fl-windows
 
     Download an extract the file
-    https://github.com/ntrrg/ntdocutils-theme-mdl/archive/v0.1.0.zip, then run the
+    https://github.com/ntrrg/ntdocutils-theme-mdl/archive/v1.0.0.zip, then run the
     following commands:
 
     .. code:: doscon
 
-        C:\> cd %USERPROFILE%\Downloads\ntdocutils-theme-mdl-0.1.0
+        C:\> cd %USERPROFILE%\Downloads\ntdocutils-theme-mdl-1.0.0
 
     .. code:: doscon
 
@@ -212,7 +212,7 @@ adding the following lines in the article:
           ATTACHMENTS = [
             {
               url: 'index.rst',
-              name: 'NtDocutils MDL Theme 0.1.0.rst',
+              name: 'NtDocutils MDL Theme 1.0.0.rst',
               icon: 'code'
             }
           ]
@@ -329,8 +329,8 @@ following lines in the article:
         <script>
           VERSIONS = [
             {
-              url: 'v0.1.0/',
-              name: 'v0.1.0'
+              url: 'v1.0.0/',
+              name: 'v1.0.0'
             }
           ];
         </script>
@@ -578,16 +578,16 @@ Working on this project I use/used:
       ATTACHMENTS = [
         {
           url: 'index.rst',
-          name: 'NtDocutils MDL Theme v0.1.0.rst',
+          name: 'NtDocutils MDL Theme v1.0.0.rst',
           icon: 'code'
         },
         {
           url: 'attachments/mdl-assets.zip',
-          name: 'NtDocutils MDL Assets v0.1.0.zip'
+          name: 'NtDocutils MDL Assets v1.0.0.zip'
         },
         {
           url: 'attachments/mdl-assets.tar.gz',
-          name: 'NtDocutils MDL Assets v0.1.0.tar.gz'
+          name: 'NtDocutils MDL Assets v1.0.0.tar.gz'
         }
       ]
     </script>
