@@ -2,33 +2,12 @@
 
 ## Install
 
-This theme requires:
+**Requirements:**
 
 * Python >= 3.4
-* NtDocutils >= 1.0.0 (auto installed)
-
-### From PyPI
 
 ```shell-session
-# pip install ntdocutils-theme-mdl==1.0.0
-```
-
-### From source
-
-```shell-session
-$ wget -c 'https://github.com/ntrrg/ntdocutils-theme-mdl/archive/v1.0.0.tar.gz'
-```
-
-```shell-session
-$ tar -xvf ntdocutils-theme-mdl-1.0.0.tar.gz
-```
-
-```shell-session
-$ cd ntdocutils-theme-mdl-1.0.0
-```
-
-```shell-session
-# python3 setup.py
+$ pip install ntdocutils-theme-mdl==1.0.0
 ```
 
 ## Usage
@@ -66,14 +45,12 @@ And that's it, you already have a HTML file.
 
 ![Example](screenshots/example.png)
 
-Also see the [site](https://ntrrg.github.io/ntdocutils-theme-mdl/).
+See <https://ntrrg.github.io/ntdocutils-theme-mdl/>.
 
 ## Uninstall
 
-Should be enough with this:
-
 ```shell-session
-# pip uninstall -y ntdocutils-theme-mdl
+$ pip uninstall -y ntdocutils-theme-mdl
 ```
 
 ## Acknowledgment

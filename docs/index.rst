@@ -69,63 +69,19 @@ __ `Theme customization`_
 Install
 =======
 
-.. warning::
-    :class: fl fl-linux
-
-    Superuser privileges will be needed if you don't use a virtualenv.
-
-This theme requires:
+**Requirements:**
 
 * Python >= 3.4
-* NtDocutils >= 1.0.0 (auto installed)
-
-From PyPI
----------
 
 .. code:: shell-session
     :class: fl fl-linux
 
-    # pip install ntdocutils-theme-mdl==1.0.0
+    $ pip install ntdocutils-theme-mdl==1.0.0
 
 .. code:: doscon
     :class: fl fl-windows
 
     C:\> pip install ntdocutils-theme-mdl==1.0.0
-
-From source
------------
-
-.. class:: fl fl-linux
-
-    .. code:: shell-session
-
-        $ wget -c 'https://github.com/ntrrg/ntdocutils-theme-mdl/archive/v1.0.0.tar.gz'
-
-    .. code:: shell-session
-
-        $ tar -xvf ntdocutils-theme-mdl-1.0.0.tar.gz
-
-    .. code:: shell-session
-
-        $ cd ntdocutils-theme-mdl-1.0.0
-
-    .. code:: shell-session
-
-        # python3 setup.py
-
-.. class:: fl fl-windows
-
-    Download an extract the file
-    https://github.com/ntrrg/ntdocutils-theme-mdl/archive/v1.0.0.zip, then run the
-    following commands:
-
-    .. code:: doscon
-
-        C:\> cd %USERPROFILE%\Downloads\ntdocutils-theme-mdl-1.0.0
-
-    .. code:: doscon
-
-        C:\> python3 setup.py
 
 Usage
 =====
@@ -509,13 +465,6 @@ have to run **NtDocutils** with the following option:
 
 Uninstall
 =========
-
-.. warning::
-    :class: fl fl-linux
-
-    Superuser privileges will be needed if you didn't use a virtualenv.
-
-Should be enough with this:
 
 .. code:: shell-session
     :class: fl fl-linux
